@@ -1,4 +1,4 @@
-- Hi, I’m @rohxnsxngh
+- Hi, I’m Rohan Singh
 - I have a passion for Mechatronics/Robotics, Software Development, Web Design, & Sports
 - phone: 214-799-5931 email: rohan.singh.do@gmail.com
  
