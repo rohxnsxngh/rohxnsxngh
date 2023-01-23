@@ -1,9 +1,7 @@
-- Hi, I’m Rohan Singh
-- I have a passion for Mechatronics/Robotics, Software Development, Web Design, & Sports
+# Rohan Singh
+
+I am a driven and ambitious student with a strong background in engineering and design. I will graduate from Texas A&M university in fall of 2023 with a B.S. in Honors Mechanical Engineering and a minor in Computer Science. A few of my favorite aspects of engineering include computer-aided design, software development, and engineering collaboration.
+
 - phone: 214-799-5931 
 - email: rohan.singh.do@gmail.com
- 
-<!---
-rohxnsxngh/rohxnsxngh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- linkedin: https://www.linkedin.com/in/rohan-singh1122/
